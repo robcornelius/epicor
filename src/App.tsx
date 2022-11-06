@@ -21,13 +21,13 @@ function App() {
               Material UI for the buttons etc.
             </a>
           </li>
-          <li>write tests for</li>
           <li>
             convert all inline styles to{" "}
             <a href="https://styled-components.com/" target="_new">
               Styled components
             </a>
           </li>
+          <li>write tests for</li>
           <ul>
             <li>User inputs</li>
             <li>non null</li>
